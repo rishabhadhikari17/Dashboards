@@ -1,4 +1,4 @@
-# Executive Summary — Product (SaaS) Dashboard
+# Executive Summary - Product (SaaS) Dashboard
 
 ## Purpose
 
