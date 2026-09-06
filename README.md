@@ -1,4 +1,4 @@
-# Product Analytics Dashboard Portfolio
+# Analytics & Dashboard Portfolio
 
 This project contains two Metabase dashboards built on separate analytics databases:
 
