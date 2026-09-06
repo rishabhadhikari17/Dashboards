@@ -1,4 +1,4 @@
-# Product (SaaS) Dashboard â€” Metric Definitions
+# Product (SaaS) Dashboard & Metric Definitions
 
 ## Scope and conventions
 
@@ -29,3 +29,8 @@
 - Activation and first value both use first core-feature activity as a proxy. If the product defines a specific activation event, both metrics should be updated together.
 - Thirty-day retention is a seven-day return window starting on day 30; it is not continuous activity throughout the first 30 days.
 - Small segmented cohorts can create volatile percentages. Always read activation and retention rates alongside their user counts.
+
+<img width="897" height="745" alt="image" src="https://github.com/user-attachments/assets/7cf873c9-9dee-422a-8a36-a86ad629d5fb" />
+<img width="902" height="552" alt="image" src="https://github.com/user-attachments/assets/0e861dd5-c65a-4594-9a31-9d896f91dd6e" />
+
+
