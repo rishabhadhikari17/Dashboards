@@ -1,4 +1,4 @@
-# Executive One-Pager — Product (SaaS) Dashboard
+# Executive Summary — Product (SaaS) Dashboard
 
 ## Purpose
 
@@ -49,4 +49,7 @@ The Product (SaaS) dashboard gives **Rahul, Product Manager**, a decision-ready 
 
 Rahul can determine within minutes whether to **monitor, investigate or prepare an evidenced sprint intervention**, without mistaking a single-week spike for a product regression.
 
-See: [Product SaaS metric definitions](product_saas_metric_definitions.md)
+<img width="897" height="745" alt="image" src="https://github.com/user-attachments/assets/92dae264-faf4-40cb-9dbd-7d8d0185cbf7" />
+<img width="902" height="552" alt="image" src="https://github.com/user-attachments/assets/e2dc82a7-0f4a-426f-b272-7eee803dc6e8" />
+
+
