@@ -1,4 +1,4 @@
-# Executive One-Pager — Ecommerce Dashboard
+# Executive Summary - Ecommerce Dashboard
 
 ## Purpose
 
