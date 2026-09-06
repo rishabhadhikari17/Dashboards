@@ -1,4 +1,4 @@
-# Anomaly Investigation Memo — Ecommerce Dashboard
+# Anomaly Investigation Memo - Ecommerce Dashboard
 
 **Finding:** The June 14 headline drop (revenue -78%, orders -72%, conversion -34%) is likely a **partial-day artifact, not a real business collapse**. Sessions that day fall to 429 vs. a ~900-1,000/day baseline all week — every KPI moves in lockstep by a similar magnitude, which is the signature of a mid-day data pull rather than an actual demand shock. This should be excluded or footnoted before reporting the "34% conversion drop" as a genuine trend.
 
