@@ -4,6 +4,8 @@
 
 The Product (SaaS) dashboard gives **Rahul, Product Manager**, a decision-ready view of product health across acquisition, activation, adoption and retention. Its purpose is to separate sustained regressions from short-term noise before product and engineering capacity is committed.
 
+[Product SaaS Dashboard PRD](https://app.notion.com/p/Product-SaaS-Dashboard-3cc573e17e4e80edb4d4dc9f2c30575e?source=copy_link)
+
 ## Executive question
 
 > Is the product journey deteriorating consistently enough to require sprint action, and where is the friction concentrated?
