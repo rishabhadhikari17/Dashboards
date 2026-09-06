@@ -61,8 +61,6 @@ Plan Type, Signup Source and User Role must filter the user population before nu
 - Small segmented cohorts can produce volatile rates; percentages should be read alongside user counts.
 - The cohort table returns percentage-point values, while the other rate queries return decimal ratios for Metabase formatting.
 
-Full definitions: [Product SaaS metric dictionary](product_saas/product_saas_metric_definitions.md)
-
 ## 2. Ecommerce dashboard
 
 ### Job to be done
@@ -122,8 +120,6 @@ All filters should be tested through a Filter Coverage Matrix. Country and Payme
 - Revenue by Channel needs a documented attribution rule when sessions contain multiple attribution touches.
 - The Conversion Rate denominator must count sessions, while its numerator counts converted sessions—not orders.
 
-Full definitions: [Ecommerce metric dictionary](ecommerce/ecommerce_metric_definitions.md)
-
 ## Shared implementation standards
 
 ### SQL
@@ -146,8 +142,3 @@ Before publishing or completing the consistency audit, verify:
 - Zero-activity periods appear correctly and immature cohorts remain blank.
 - Trend comparisons use the intended prior period rather than the previous displayed row.
 - Titles and descriptions state the metric window and population clearly.
-
-## Repository documents
-
-- [Product SaaS metric definitions](product_saas/product_saas_metric_definitions.md)
-- [Ecommerce metric definitions](ecommerce/ecommerce_metric_definitions.md)
