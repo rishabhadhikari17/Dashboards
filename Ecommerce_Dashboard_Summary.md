@@ -55,4 +55,5 @@ Date Range, Country, Acquisition Channel, Payment Method and Device Type must pr
 
 The Founder/CEO can answer **“Are we okay, what changed and does anyone need to act now?”** within three minutes, with Refund Rate treated as the highest-priority operational warning signal.
 
-See: [Ecommerce metric definitions](ecommerce_metric_definitions.md)
+<img width="1070" height="840" alt="image" src="https://github.com/user-attachments/assets/2e720c77-0bef-45a7-92d0-c1d55e73fec8" />
+
