@@ -4,6 +4,8 @@
 
 The Ecommerce dashboard gives a **Founder/CEO** a three-minute, mobile-friendly view of daily commercial health before leadership meetings. It highlights current trajectory, urgent customer-impacting problems and progress toward quarterly performance.
 
+[Ecommerce Dashboard PRD](https://app.notion.com/p/Ecommerce-Dashboard-3cd573e17e4e8011878ceda18cec3a9d?source=copy_link)
+
 ## Executive question
 
 > How are we performing today versus the same point last week, and is anything broken badly enough to escalate immediately?
