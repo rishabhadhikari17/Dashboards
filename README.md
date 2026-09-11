@@ -142,3 +142,4 @@ Before publishing or completing the consistency audit, verify:
 - Zero-activity periods appear correctly and immature cohorts remain blank.
 - Trend comparisons use the intended prior period rather than the previous displayed row.
 - Titles and descriptions state the metric window and population clearly.
+- Cross-dashboard consistency audit (2026-05-15 to 2026-06-14, no filters):Ecom — Revenue: ₹5.89Cr. SaaS — no shared Revenue card, no conflict. Audit date: 2026-09-06.
